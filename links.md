@@ -3,3 +3,5 @@
 * Definitions of Service Connect & Possible Contractor: https://lukemcavoy.co.uk/services/service-connect/ 
 
 * Epicor Kinetic Framework https://kinetic.developer.epicor.com/framework/assets/Kinetic-Engagement-Deck.pdf
+
+* Epicor® Kinetic Service Connect: Improving Workflows and Productivity https://tomerlin-erp.com/epicor-service-connect/
