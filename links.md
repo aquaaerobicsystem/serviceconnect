@@ -15,3 +15,5 @@ Definitions, How to's, etc.
 UserGroups
 
 * https://www.epiusers.help/
+
+* http://epicormidwestusersgroup.com/
