@@ -1,1 +1,1 @@
-# serviceconnect
+# serviceconnect resources
