@@ -4,3 +4,4 @@
 
 * Epicor Rest from the Beginning (Connect to Service Connect with REST) https://www.youtube.com/watch?v=BMmZSS0Vru4
   * Epicor REST API https://www.youtube.com/watch?v=8YyIe93Tio4
+  * Accessing the Epicor REST API https://www.youtube.com/watch?v=hJyyIkGyHZs
